@@ -1336,3 +1336,11 @@ Received Import Request.
 Start importing Assets/Project/Materials/QS-GRASS-1.1.mat using Guid(4167230534a52bb4d9073a435cafff7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20a3d621cb2149cd1eca2cc257382f71') in 0.009710 seconds 
   Import took 0.012421 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 527.780379 seconds.
+  path: Assets/Project/Materials/SimpleRedBricks_WMShader.mat
+  artifactKey: Guid(bfa6ad9a35a0a584e86e406e5382065f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project/Materials/SimpleRedBricks_WMShader.mat using Guid(bfa6ad9a35a0a584e86e406e5382065f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9bf6a6a46bfac7a06d179a275c2585a') in 0.027153 seconds 
+  Import took 0.030166 seconds .
+
